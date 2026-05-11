@@ -1,10 +1,10 @@
-📚 Vocabulary Builder
+# 📚 Vocabulary Builder
  
 A full-stack web application for building and expanding your vocabulary. Users can sign up, log in, and manage their personal vocabulary list through a clean and simple interface.
  
 ---
-
-Features
+ 
+## 🚀 Features
  
 - User authentication (Sign Up / Login)
 - Personal vocabulary management
@@ -13,7 +13,7 @@ Features
 - JSON-based data storage
 ---
  
-Tech Stack
+## 🛠️ Tech Stack
  
 **Frontend:**
 - HTML5
@@ -26,7 +26,7 @@ Tech Stack
 - JSON file (`db.json`) for data persistence
 ---
  
-Project Structure
+## 📁 Project Structure
  
 ```
 Vocabulary Builder/
@@ -49,7 +49,7 @@ Vocabulary Builder/
  
 ---
  
-Getting Started
+## ⚙️ Getting Started
  
 ### Prerequisites
  
@@ -86,13 +86,13 @@ Make sure you have the following installed:
  
 ---
  
-Screenshots
+## 📸 Screenshots
  
 > *(Add screenshots of your app here once deployed)*
  
 ---
  
-Contributing
+## 🤝 Contributing
  
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
  
@@ -103,13 +103,13 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 5. Open a Pull Request
 ---
  
-License
+## 📄 License
  
 This project is open source and available under the [MIT License](LICENSE).
  
 ---
  
-Author
+## 👤 Author
  
 **kehh-keh**  
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@your-username](https://github.com/your-username/vocabulary-builder.git)
