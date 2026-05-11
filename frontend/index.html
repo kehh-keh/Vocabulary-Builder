@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vocabulary Builder</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <!-- NAVBAR -->
+    <div class="navbar">
+
+        <div class="logo">
+            📚Vocabulary Builder
+        </div>
+
+        <button
+            class="logout-btn"
+            onclick="logout()"
+        >
+            Logout
+        </button>
+
+    </div>
+
+    <!-- MAIN CONTAINER -->
+    <div class="container">
+
+        <h1 class="title">My Vocabulary</h1>
+
+        <p class="subtitle">
+            Add, view, and manage your vocabulary words.
+        </p>
+
+        <h2 id="usernameDisplay" class="username"></h2>
+
+        <!-- INPUT AREA -->
+        <div class="input-group">
+
+            <input
+                type="text"
+                id="wordInput"
+                placeholder="Enter a new word..."
+            >
+
+            <button
+                class="add-btn"
+                onclick="addWord()"
+            >
+                Add Word
+            </button>
+
+        </div>
+
+        <div id="wordList" class="card-container"></div>
+
+    </div>
+
+    <script src="app.js"></script>
+
+</body>
+</html>
