@@ -1,11 +1,3 @@
 {
-  "users": [
-    {
-      "username": "mangobmitchl@gmail.com",
-      "password": "$2b$10$SXT8wRwmpQFga0ujKVfsM.4hmhZWHc1bYhFonLxPInKR.eNvd/j/W",
-      "id": "5szUetIyQeo"
-    }
-  ],
-  "words": [],
-  "$schema": "./node_modules/json-server/schema.json"
+  "words": []
 }
